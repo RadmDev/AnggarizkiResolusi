@@ -4,6 +4,7 @@ Rencana Belajar Anggarizki
   * projek baru
 - melalui buildwithangga
   * ui ux
+  * react
 - melalui yt deaAfrizal
 - melalui yt codeCommerce
 - uiux yt kukuhaldy
