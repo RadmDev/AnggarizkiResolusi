@@ -3,7 +3,8 @@ Rencana Belajar Anggarizki
   * ecmascript
   * projek baru
 - melalui buildwithangga
-  * angular
+  * ui ux
   * react
+- melalui yt deaAfrizal
 - melalui yt codeCommerce
 - uiux yt kukuhaldy
