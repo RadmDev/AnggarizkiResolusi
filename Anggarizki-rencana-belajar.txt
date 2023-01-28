@@ -2,5 +2,6 @@ Rencana Belajar Anggarizki
 - melalui kelaskiwari
   * ecmascript
   * projek baru
+- melalui buildwithangga
 - melalui yt deaAfrizal
 - melalui yt codeCommerce
